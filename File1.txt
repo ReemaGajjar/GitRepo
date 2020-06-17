@@ -1,1 +1,7 @@
 This is my fisrt file for GIT.
+
+class HelloGit{
+main(){
+stdout("Hello World")
+}
+}
